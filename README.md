@@ -1,4 +1,4 @@
-# -SP19-COMP562---Final-Project
+# Movie Sentiment Analysis
 ### Team Member (by Alphabetical Order):
 ```
 Hanlin Zhang
